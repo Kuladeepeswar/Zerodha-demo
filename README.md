@@ -1,2 +1,2 @@
 # Zerodha-demo
-This is my first Git Reposity
+This is my first Git Repository
